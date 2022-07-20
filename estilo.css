@@ -1,0 +1,16 @@
+#centro{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    }
+
+#centro button{
+
+    width: 18%;
+    height: 18%;
+    background-color: rgb(240, 56, 56) ;
+    display: flex;
+}
